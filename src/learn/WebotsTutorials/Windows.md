@@ -1,13 +1,8 @@
 <h1 align="center">Instructions for Windows</h1>
 <hr>
 
-> [!NOTE] 
-> This document contains instructions for the following:  
-> 1. Webots Installation  
-> 2. Python Installation  
-> 3. Setting up environment for Python in Webots  
-
 ---
+
 
 ## 1. Webots Installation
 

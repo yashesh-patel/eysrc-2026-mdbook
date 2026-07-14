@@ -2,12 +2,6 @@
 # <center>Instructions for macOS:</center>
 <hr>
 
-> [!NOTE] 
-> This document contains instructions for the following:  
-> 1. Webots Installation  
-> 2. Python Installation  
-> 3. Setting up environment for Python in Webots 
-
 ## 1. Webots Installation
 
 - Copy this URL `https://www.cyberbotics.com/#download` and paste it in your browser (preferably Firefox).  This will lead you to the official website of the Webots as shown in the image below.

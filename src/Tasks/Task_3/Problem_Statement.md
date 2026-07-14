@@ -1,6 +1,6 @@
-# Task 3: Problem Statement
-
----
+<hr>
+<h1 align="center">Task 3: Problem Statement</h1>
+<hr>
 
 ## Objective
 

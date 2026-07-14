@@ -1,23 +1,25 @@
-# Task 2: Overview
+<hr>
+<h1 align="center">Task 2: Flooded Industrial District</h1>
+<hr>
 
----
-
-## Welcome to Task 2
+## Theme
 
 The city has been severely flooded, leaving roads inaccessible and forcing rescue teams to rely on elevated pipelines for transportation.
 
-In this task, the **e-puck** robot must autonomously follow the only safe route while detecting and remembering important coloured checkpoints that represent critical rescue locations.
+The **e-puck** robot must autonomously follow the only safe route while detecting and remembering important coloured checkpoints that represent critical rescue locations.
 
-Task 2 introduces **line following** and **sequential colour memory**, two essential building blocks for autonomous mobile robots.
+<p align="center">
+<img src="../Task_2/images/arena2.jpeg" width="700" alt="Task 2 Arena">
+</p>
 
 ---
 
 ## What You Will Learn
 
 - Ground sensor programming
-- Line following
-- Colour detection
-- Sequential memory
+- Line following with proportional control
+- Colour detection from ground sensors
+- Sequential memory in Python
 - Autonomous navigation
 
 ---
@@ -32,10 +34,11 @@ Learn → Build → Test → Submit
 
 ## Why This Task Matters
 
-Many autonomous robots must navigate along predefined paths while collecting important information from their surroundings. The concepts introduced here will prepare you for more advanced navigation and perception tasks in the upcoming challenges.
+Many autonomous robots must navigate along predefined paths while collecting important information from their surroundings.
+The concepts introduced here will prepare you for more advanced navigation and perception tasks in the upcoming challenges.
 
 ---
 
-**Next Step:** Proceed to the **Problem Statement** to begin developing your controller.
+**Next Step:** Go through the **Learning Resources** before heading to the **Problem Statement**.
 
 **Happy Learning! 🚀**

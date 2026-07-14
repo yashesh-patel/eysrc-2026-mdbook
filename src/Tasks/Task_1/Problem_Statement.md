@@ -1,6 +1,6 @@
-# Task 1: Problem Statement
-
----
+<hr>
+<h1 align="center">Task 1: Problem Statement</h1>
+<hr>
 
 ## Mission Scenario
 
@@ -101,11 +101,51 @@ Each coloured waypoint is positioned at a predefined distance from the centre of
 
 Supply boxes may appear at any of the following angular positions relative to the deployment zone:
 
-
 | **Angle (°)** | 0 | 45 | 90 | 135 | 180 | 225 | 270 | 315 |
 |:-------------:|:-:|:--:|:--:|:---:|:---:|:---:|:---:|:---:|
 
-> **Note:** The radius values provided above indicate the approximate locations of the coloured waypoints and supply boxes in the arena. Your controller should use these values as reference distances while navigating.
+---
+
+### Arena Layout Diagram
+
+The diagram below shows the top-down view of the arena, including the concentric coloured rings and the eight possible angular positions for supply boxes.
+
+```
+                      90°
+                       |
+              135°     |     45°
+                  \    |    /
+                   \   |   /
+  180° ----------- [CENTER] ----------- 0°
+                   /   |   \
+                  /    |    \
+              225°     |     315°
+                       |
+                      270°
+
+  Rings (distance from centre):
+  ● Red    ring  = 0.24 m
+  ● Yellow ring  = 0.48 m
+  ● Purple ring  = 0.73 m
+  ○ Supply boxes = 1.0 m  (on outer ring, at one of 8 angles)
+```
+
+```mermaid
+graph TD
+    subgraph "Arena Top-Down View"
+        C([Center / Deployment Zone])
+        R1["Red ring — 0.24 m"]
+        R2["Yellow ring — 0.48 m"]
+        R3["Purple ring — 0.73 m"]
+        R4["Supply boxes — 1.0 m"]
+        C --> R1
+        R1 --> R2
+        R2 --> R3
+        R3 --> R4
+    end
+```
+
+> **NOTE!** <span style="color:red">The radius values provided above indicate the approximate locations of the coloured waypoints and supply boxes in the arena. Your controller should use these values as reference distances while navigating.</span>
 
 ---
 

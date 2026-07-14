@@ -12,7 +12,6 @@ Task_X/
 ├── controllers/
 │   ├── e-puck/
 │   └── my_supervisor/
-├── Eval/
 ├── protos/
 └── worlds/
 ```
@@ -20,14 +19,6 @@ Task_X/
 ---
 
 ## Directory Description
-
-### assets/
-
-Contains models, textures, images, and other resources used by the simulation.
-
-> Participants generally do not need to modify these files.
-
----
 
 ### controllers/
 
@@ -41,31 +32,6 @@ controllers/
 ```
 
 - **e-puck.py** → Main controller to be implemented by participants.
-- **my_supervisor/** → Supervisor controller responsible for scoring, timing, and task management.
-
----
-
-### Eval/
-
-Contains the evaluation scripts used for validating submissions.
-
-Typical contents include:
-
-- Evaluator
-- Submission generator
-- Encryption keys
-
-> Do not modify these files.
-
----
-
-### protos/
-
-Contains custom robot and arena definitions used by Webots.
-
-These files define the objects that appear in the simulation.
-
----
 
 ### worlds/
 
@@ -120,5 +86,4 @@ Generate Submission
 
 - Keep your controller modular by using functions.
 - Test frequently after making changes.
-- Avoid modifying supervisor or evaluation files.
 - Verify that your solution works before generating the submission package.

@@ -1,6 +1,6 @@
-# Submission Instructions
-
----
+<hr>
+<h1 align="center">Submission Instructions</h1>
+<hr>
 
 For this task, you are required to submit:
 
@@ -33,18 +33,20 @@ Ensure that the Team ID and Author List are correct before generating the submis
 
 ## Part 1: Uploading the ZIP File
 
-After the simulation finishes successfully, a ZIP file will automatically be generated inside the **Task_1** directory.
+After the simulation finishes successfully, a ZIP file will automatically be generated inside the **Task_3** directory.
 
 <p align="center">
 <img src="./images/zipex.png" width="650">
 </p>
+
+> *Note: The image above shows Task 1 as an example. Your portal will show the correct task.*
 
 Upload this ZIP file to the submission portal.
 
 ### Steps
 
 1. Login to the submission portal.
-2. Navigate to **Task 1**.
+2. Navigate to **Task 3**.
 3. Select **ZIP Submission**.
 4. Click **Upload Submission**.
 5. Select the generated ZIP file.
@@ -71,7 +73,7 @@ The video should include:
 - Complete execution of the controller
 - Successful completion of the mission
 
-> **Recommended Duration:** **2–3 minutes**
+> **Recommended Duration:** **2-3 minutes**
 
 The recording should clearly show the Webots simulation window throughout the execution.
 
@@ -106,13 +108,13 @@ Upload your demonstration video to **YouTube**.
 ### Naming Convention
 
 ```
-Task1_TeamID
+Task3_TeamID
 ```
 
 Example:
 
 ```
-Task1_1234
+Task3_1234
 ```
 
 ---
@@ -120,7 +122,7 @@ Task1_1234
 ### Upload Steps
 
 1. Open the submission portal.
-2. Navigate to **Task 1**.
+2. Navigate to **Task 3**.
 3. Select **Video Submission**.
 4. Paste the YouTube video link.
 5. Click **Submit**.
@@ -138,7 +140,7 @@ Before submitting, make sure that:
 - ZIP file is generated successfully.
 - Demonstration video is uploaded as **Unlisted**.
 - Correct YouTube link is submitted.
--   Both ZIP file and video have been uploaded before the deadline.
+- Both ZIP file and video have been uploaded before the deadline.
 
 ---
 

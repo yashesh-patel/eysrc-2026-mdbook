@@ -1,14 +1,17 @@
-# Task 3: Overview
+<hr>
+<h1 align="center">Task 3: Landslide Triage</h1>
+<hr>
 
----
+## Theme
 
-## Welcome to Task 3
+A massive landslide has isolated several survivors across a mountainous region.
+Emergency beacons indicate each survivor's current medical condition, which deteriorates over time if rescue is delayed.
 
-The **Landslide Triage Zone** presents a dynamic rescue scenario where every decision matters. Following a devastating landslide, multiple survivors require immediate medical attention, but their condition continues to deteriorate over time.
+The **e-puck** robot must autonomously detect survivor beacons, prioritise rescue operations based on their current condition, and transport survivors to the correct medical camp using shape recognition.
 
-In this task, the **e-puck** robot must autonomously detect survivor beacons, prioritize rescue operations based on their current condition, and transport survivors to the correct medical camp using shape recognition.
-
-Task 3 introduces **finite state machines** and **dynamic decision-making**, enabling the robot to adapt its actions as the environment changes.
+<p align="center">
+<img src="../Task_3/images/arena3.jpeg" width="700" alt="Task 3 Arena">
+</p>
 
 ---
 
@@ -17,7 +20,7 @@ Task 3 introduces **finite state machines** and **dynamic decision-making**, ena
 - Finite State Machines (FSM)
 - Dynamic priority scheduling
 - Colour detection
-- Shape detection
+- Shape detection and contour analysis
 - Autonomous decision-making
 
 ---
@@ -32,10 +35,11 @@ Learn → Build → Test → Submit
 
 ## Why This Task Matters
 
-Real-world rescue robots constantly make decisions based on changing conditions. This task teaches how autonomous robots monitor their surroundings, prioritize objectives, and adapt their behaviour in real time.
+Real-world rescue robots constantly make decisions based on changing conditions.
+This task teaches how autonomous robots monitor their surroundings, prioritise objectives, and adapt their behaviour in real time.
 
 ---
 
-**Next Step:** Continue to the **Problem Statement** to begin designing your rescue strategy.
+**Next Step:** Go through the **Learning Resources** before heading to the **Problem Statement**.
 
 **Happy Learning! 🚀**

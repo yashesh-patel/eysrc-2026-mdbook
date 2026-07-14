@@ -1,6 +1,6 @@
-# Task 5: Problem Statement
-
----
+<hr>
+<h1 align="center">Task 5: Problem Statement</h1>
+<hr>
 
 ## Objective
 
@@ -170,7 +170,13 @@ During execution, the supervisor displays:
 
 ### Please refer to the expected output video shown below.
 
-<center><iframe width="640" height="350" src="https://www.youtube.com/embed/X9Vy4Ox6efk?si=0c1VLcaBqDpbEDlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center> 
+<center>
+
+*The Task 5 demo video will be added here once available.*
+
+<!-- <iframe width="640" height="350" src="TASK_5_VIDEO_URL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+</center>
 
 ---
 

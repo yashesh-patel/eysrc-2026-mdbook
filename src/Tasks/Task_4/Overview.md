@@ -1,21 +1,24 @@
-# Task 4: Overview
+<hr>
+<h1 align="center">Task 4: Urban Gridlock</h1>
+<hr>
 
----
+## Theme
 
-## Welcome to Task 4
+The city's transportation network has been severely damaged following the disaster.
+Traffic lights and navigation systems are no longer functional, forcing rescue robots to rely on **ArUco markers** placed at road intersections to determine the correct route.
 
-The **Urban Gridlock** presents a navigation challenge where traditional traffic signals are no longer operational. Instead, autonomous rescue robots rely on **ArUco markers** placed at road intersections to determine the correct route.
+The **e-puck** robot must decode these markers, interpret the navigation instructions, and choose the correct coloured directional arrow to safely traverse the city.
 
-In this task, the **e-puck** robot must decode ArUCo markers, interpret the navigation instructions, and choose the correct coloured directional arrow to safely traverse the city.
-
-Task 4 introduces **marker-based navigation**, combining computer vision with autonomous decision-making.
+<p align="center">
+<img src="../Task_4/images/arena4.jpeg" width="700" alt="Task 4 Arena">
+</p>
 
 ---
 
 ## What You Will Learn
 
 - ArUco marker detection
-- Marker decoding
+- Marker ID decoding
 - Decision making at intersections
 - Colour-based path selection
 - Autonomous navigation
@@ -32,10 +35,11 @@ Learn → Build → Test → Submit
 
 ## Why This Task Matters
 
-Many autonomous robots rely on visual markers such as QR codes, AprilTags, or ArUCo markers for localization and navigation. This task introduces one of the most widely used techniques for robot navigation in structured environments.
+Many autonomous robots rely on visual markers such as QR codes, AprilTags, or ArUco markers for localisation and navigation.
+This task introduces one of the most widely used techniques for robot navigation in structured environments.
 
 ---
 
-**Next Step:** Continue to the **Problem Statement** to begin implementing your navigation algorithm.
+**Next Step:** Go through the **Learning Resources** before heading to the **Problem Statement**.
 
 **Happy Learning! 🚀**

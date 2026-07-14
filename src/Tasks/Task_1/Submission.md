@@ -1,6 +1,6 @@
-# Submission Instructions
-
----
+<hr>
+<h1 align="center">Submission Instructions</h1>
+<hr>
 
 For this task, you are required to submit:
 
@@ -39,6 +39,8 @@ After the simulation finishes successfully, a ZIP file will automatically be gen
 <img src="./images/zipex.png" width="650">
 </p>
 
+> *Note: The image above shows Task 1 as an example. Your portal will show the correct task.*
+
 Upload this ZIP file to the submission portal.
 
 ### Steps
@@ -71,7 +73,7 @@ The video should include:
 - Complete execution of the controller
 - Successful completion of the mission
 
-> **Recommended Duration:** **2–3 minutes**
+> **Recommended Duration:** **2-3 minutes**
 
 The recording should clearly show the Webots simulation window throughout the execution.
 
@@ -138,7 +140,7 @@ Before submitting, make sure that:
 - ZIP file is generated successfully.
 - Demonstration video is uploaded as **Unlisted**.
 - Correct YouTube link is submitted.
--   Both ZIP file and video have been uploaded before the deadline.
+- Both ZIP file and video have been uploaded before the deadline.
 
 ---
 

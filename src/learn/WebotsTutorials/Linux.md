@@ -1,12 +1,6 @@
 # <center>Instructions for Ubuntu</center>
 <hr>
 
-> [!NOTE] 
-> This document contains instructions for the following:  
-> 1. Webots Installation  
-> 2. Python Installation  
-> 3. Setting up environment for Python in Webots 
-
 ## 1. Webots Installation:
 
 - Open up the terminal.
