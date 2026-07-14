@@ -101,6 +101,10 @@
     - [Shape Detection](learn/OpenCV/shape_detection.md)
     - [Finite State Machines](learn/e-PuckProgramming/Controllers/fsm.md)
     - [Intro to Controllers](learn/e-PuckProgramming/Controllers/intro_to_controllers.md)
+    - Extras
+      - [Working with Proximity Sensors](learn/e-PuckProgramming/Sensors/obstacle_avoidance.md)
+      - [Working with Rotary Encoders](learn/e-PuckProgramming/Sensors/encoders.md)
+      - [Wall Following](learn/e-PuckProgramming/Controllers/proportional_controller.md)
   - [Problem Statement](Tasks/Task_3/Problem_Statement.md)
   - [Submission Instructions](Tasks/Task_3/Submission.md)
 
@@ -112,10 +116,6 @@
   - [Submission Instructions](Tasks/Task_4/Submission.md)
 
 - [Task 5 – Full Rescue Mission](Tasks/Task_5/Overview.md)
-  - [Learning Resources](Tasks/Task_5/Resources.md)
-    - [Working with Proximity Sensors](learn/e-PuckProgramming/Sensors/obstacle_avoidance.md)
-    - [Working with Rotary Encoders](learn/e-PuckProgramming/Sensors/encoders.md)
-    - [Wall Following](learn/e-PuckProgramming/Controllers/proportional_controller.md)
   - [Problem Statement](Tasks/Task_5/Problem_Statement.md)
   - [Submission Instructions](Tasks/Final_Task/Submission.md)
 
